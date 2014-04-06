@@ -1,0 +1,27 @@
+{
+  "name": "airline",
+  "version": "0.0.0",
+  "description": "Lynda keeep track of airline flights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knighttoo/airline.git"
+  },
+  "keywords": [
+    "lynda",
+    "airline",
+    "flight"
+  ],
+  "author": "David Engel <contact+gh@engelfamily.name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knighttoo/airline/issues"
+  },
+  "homepage": "https://github.com/knighttoo/airline",
+  "dependencies": {
+    "express": "~3.5.1"
+  }
+}
